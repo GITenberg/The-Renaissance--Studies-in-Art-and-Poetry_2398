@@ -1,0 +1,33 @@
+_repo: The-Renaissance--Studies-in-Art-and-Poetry_2398
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pater, Walter
+    aliases:
+    - Pater, Walter Horatio
+    - Pater, Walter H. (Walter Horatio)
+    birthdate: 1839
+    deathdate: 1894
+    gutenberg_agent_id: '1367'
+    url: http://www.gutenberg.org/2009/agents/1367
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Pater
+description: ''
+gutenberg_issued: '2000-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2398'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NX'
+- !lcsh 'Renaissance'
+- !lcsh 'Renaissance -- Italy'
+- !lcsh 'Arts, Renaissance'
+- GITenberg
+tableOfContents: Preface -- Two early French stories -- Pico della Mirandola -- Sandro
+  Botticelli -- Luca della Robbia -- The poetry of Michelangelo -- Leonardo da Vinci
+  -- The school of Giorgione -- Joachim du Bellay -- Winckelmann -- Conclusion.
+title: 'The Renaissance: Studies in Art and Poetry'
+url: http://www.gutenberg.org/ebooks/2398
