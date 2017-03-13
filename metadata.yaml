@@ -1,5 +1,8 @@
 _repo: The-Renaissance--Studies-in-Art-and-Poetry_2398
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Pater, Walter
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1367
     wikipedia: http://en.wikipedia.org/wiki/Walter_Pater
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2398#The-Renaissance--Studies-in-Art-and-Poetry
 gutenberg_issued: '2000-11-01'
 gutenberg_type: Text
 identifiers:
